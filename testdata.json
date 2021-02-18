@@ -2,5 +2,6 @@
    "Name": ["Harald Stickler", "Armin Prantl", "Ian Schlessinger", "Nils Hauffe", "Verena Spitzer", "Viviane Hilbert", "Karina Fahr", "Silvia Weschler", "Freya Holdermann", "Lutz Schwarzenberger"],
    "Role": ["Account Owner", "Company Admin", "Cost Center Admin", "Supervisor", "Inspector", "Accountant"],
    "Phone": ["(0 40) 7 60 47 14", "(0 40) 7 90 93 42", "(0 40) 32 31 00-10", "(0 40) 7 45 68 63", "(07 31) 4 00 17 66", "(07 31) 9 40 40 94", "(0 89) 2 44 10 55 16", "(0 30) 6 51 94 11", "(0 30) 8 51 16 47", "(0 30) 44 31 70 79"],
-   "Email": ["hstickler@t-online.de", "arminprantl@gmail.com", "ianschlessinger@gmail.com", "nhauffe@yahoo,de", "verena_spitzer@gmx.de", "vivi-hilbert@hilbert.de", "k-fahr@web.de", "silvia-weschler@weschler.de", "freya-holdermann@gmail.com", "lutz-schwarzenberger@t-online.de"]
+   "Email": ["hstickler@t-online.de", "arminprantl@gmail.com", "ianschlessinger@gmail.com", "nhauffe@yahoo,de", "verena_spitzer@gmx.de", "vivi-hilbert@hilbert.de", "k-fahr@web.de", "silvia-weschler@weschler.de", "freya-holdermann@gmail.com", "lutz-schwarzenberger@t-online.de"],
+   "DateDay": ["04.04.2021", "02.01.2021", "03.04.2021", "22.01.2021", "24.02.2021", "27.03.2021", "28.02.2021",]
 }
