@@ -8,5 +8,9 @@
    "Address": ["Oexen 27, 32549 Bad Oeynhausen", "Weinstraße 38, 32549 Bad Oeynhausen"],
    "CompPhone": ["05731 537-0", "05734 / 93 002"],
    "CompEmail": ["klinik@badoexen.de", "info@weinhaus-moehle.com"],
-   "CostCenter": ["Restaurant Klinik", "Café Klinik"]
+   "CostCenter": ["Restaurant Klinik", "Café Klinik"],
+   "Supplier": ["Chefs Culinar", "EDEKA", "Aerzner", "Elbfrost GmbH"],
+   "CustomerNumber": ["1002", "1006", "512", "1024"],
+   "Validity": ["01.01.2020 - 01.01.2021", "05.08.2020 - 08.09.2021", "01.02.2021 - 12.12.2021", "15.07.2020-15.07.2022"],
+   "VendorType": ["national", "international"]
 }
