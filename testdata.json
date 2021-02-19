@@ -7,5 +7,6 @@
    "Company": ["Klinik Bad Öxen", "Hotel Weinhaus Möhle"],
    "Address": ["Oexen 27, 32549 Bad Oeynhausen", "Weinstraße 38, 32549 Bad Oeynhausen"],
    "CompPhone": ["05731 537-0", "05734 / 93 002"],
-   "CompEmail": ["klinik@badoexen.de", "info@weinhaus-moehle.com"]
+   "CompEmail": ["klinik@badoexen.de", "info@weinhaus-moehle.com"],
+   "CostCenter": ["Restaurant Klinik", "Café Klinik"]
 }
